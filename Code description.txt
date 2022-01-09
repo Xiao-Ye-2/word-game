@@ -1,7 +1,7 @@
 ITEMS MODULE:
 
 if you want to create a drop:
-for a knight:    item_1 = items.knight_tier1()
+for a knight:   item_1 = items.knight_tier1()
 for a wizard:   item_2 = items.wizard_tier1()
 
 
