@@ -1,0 +1,46 @@
+apparel.
+leather armor(hp range 8-15)
+chain amror(hp range 18-25)
+iron armor(hp range 28-35)
+diamond armor(hp range 50-75)
+  capes.
+  flax cape(hp range 5-10)
+  silk cape(hp range 15-20)
+  ancient cape(hp range 24-28)
+  magic cape(hp 30, damage 10)
+
+healing. 
+Small potion (heals for 25%) can only be used when dropped from enemy once 
+large potion (heals for 50%) can only be used when dropped from enemy once 
+
+Rings. 
+Ring red ring(enhanse item damage) 
+green ring(enhanse health)
+blue ring(evasion)(increase in chance of avoiding blow from enemy)
+
+Weapons. 
+rock(damage range 1-2)
+Fork (1000 damage) (extremely rare)
+Dagger(damage range 2-5)
+sword(damage range 4-8)
+axe(damage range 5-11)
+club(damage range 5-10)
+  spells. 
+  fire spell(damage range 3-5) 
+  lightning spell(damage range 10-14)
+  poision spell(damage range 5-7)
+  tornado spell(damage range 1-3)
+  earthquake spell(damage range 5-12) 
+
+drop box.
+knight tier 1
+knight tier 2
+knight tier 2
+wizard tier 1
+wizard tier 2
+wizard tier 3
+
+
+  
+  
+

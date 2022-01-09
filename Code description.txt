@@ -1,0 +1,25 @@
+ITEMS MODULE:
+
+if you want to create a drop:
+for a knight:    item_1 = items.knight_tier1()
+for a wizard:   item_2 = items.wizard_tier1()
+
+
+ENEMIES MODULE:
+
+if you want to create an enemy:
+enemy_1 = enemies.Kobold()
+enemy_2 = enemies.Goblin()
+enemy_3 = enemies.Orc()
+enemy_4 = enemies.Grue()
+
+
+ACTIONS MODULE:
+
+when the player enters an enemy tile, the actions.combat(player, enemy) should be called
+It requires the arguments 'player', which should be the player object, and whicherever enemy you want to be on the tile
+
+
+
+
+
